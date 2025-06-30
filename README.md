@@ -1,10 +1,27 @@
 # GhostBuddy – Keychain Module (Solder Submission)
 
+
+Slack username: TRXAlpha
+
+
 GhostBuddy is a compact, modular keychain peripheral for my personal AI assistant, Ghost. It provides haptic and visual feedback (via vibration motor and LEDs), along with buttons for interacting with Ghost even when away from a computer or phone. The goal is to make Ghost always with me—on my keys, in my pocket, and always connected to my world.
 
 This is the **Solder version**, designed as part of HackClub's Summer of Making. It is part of a larger modular ecosystem, including a "Mother" dashboard module, desk hub, and presence-aware triggers using NFC and ESP-NOW.
 
 ---
+The schematic (with the ESP32-C3 chip, USB-UART CH340C chip and USB-C port)
+![image](https://github.com/user-attachments/assets/012b617b-f867-4f7b-980e-dbc062376c34)
+
+The PCB (without the ESP, CH340C chip and USB-C port)
+![image](https://github.com/user-attachments/assets/a7aebf02-f884-4fc7-93ab-33827337c07c)
+
+
+And the 3D view of the PCB:
+![image](https://github.com/user-attachments/assets/a8944831-dc9a-4647-bb7e-db2b09fb801d)
+
+and the back:
+![image](https://github.com/user-attachments/assets/3d232f92-2e23-42d4-9da5-54bf58d11f13)
+
 
 ## 🔧 Description
 
