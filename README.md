@@ -25,9 +25,6 @@ The GhostBuddy Keychain Module features:
 
 | Item                     | Quantity |
 |--------------------------|----------|
-| ESP32-C3 (e.g. ESP32-C3-MINI-1) | 1        |
-| USB-C Connector          | 1        |
-| CH340/CP2102 USB-UART converter chip | 1        |
 | Vibration motor (coin type) | 1        |
 |  LEDs  | 4        |
 | Tactile push buttons     | 4        |
