@@ -13,14 +13,16 @@ The schematic (with the ESP32-C3 chip, USB-UART CH340C chip and USB-C port)
 ![image](https://github.com/user-attachments/assets/012b617b-f867-4f7b-980e-dbc062376c34)
 
 The PCB (without the ESP, CH340C chip and USB-C port)
-![image](https://github.com/user-attachments/assets/a7aebf02-f884-4fc7-93ab-33827337c07c)
+![image](https://github.com/user-attachments/assets/85da229b-e71e-45ce-9683-776c8445358f)
 
 
-And the 3D view of the PCB:
-![image](https://github.com/user-attachments/assets/a8944831-dc9a-4647-bb7e-db2b09fb801d)
+And the 3D view of the PCB, front: 
+
+![image](https://github.com/user-attachments/assets/d47b8b38-1233-458f-abb2-5a90dc32eefb)
 
 and the back:
-![image](https://github.com/user-attachments/assets/3d232f92-2e23-42d4-9da5-54bf58d11f13)
+
+![image](https://github.com/user-attachments/assets/2e4431bd-7a2b-4c27-be5c-8d118f78a2b4)
 
 
 ## 🔧 Description
@@ -50,6 +52,7 @@ The GhostBuddy Keychain Module features:
 | Resistors (for LED/data lines), 220 ohm each | 18    |
 | Capacitor 10uF | 1    |
 | Custom PCB               | 1        |
+|2N3904 transistor | 5      |
 
 ---
 
